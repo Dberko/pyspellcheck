@@ -1,0 +1,7 @@
+# pyspellcheck
+A simple spell checker that is completely memory resident
+
+In order to run:
+```
+python spell.py spell.words < test_in.txt
+```
